@@ -1,7 +1,7 @@
 {
     "developer": "StrifeJester",
     "free": "true",
-    "id": "StrifeJester",
+    "id": "strifejester",
     "manifest": "http://android.strifejester.com/ClockworkStuff/romlist.js",
     "roms": {
         "crespo4g": "true"
