@@ -1,7 +1,7 @@
 {
     "version": "1",
-    "homepage": "http://strifejester.wordpress.com/",
-    "donate": "https://strifejester.wordpress.com",
+    "homepage": "http://rants.strifejester.com",
+    "donate": "https://rants.strifejester.com",
     "roms":
     [
     {
