@@ -1,4 +1,3 @@
-
-This repo will contain information pertaining to my ROM Manager Manifests.
-Working on a new build machine for Kit Kat.
-Created New for to support ROM Manager Files on website.
+This repo will contain information pertaining to my ROM Manager Manifests
+I have created a new branch named working_kit_kat
+Please make all changes on the new branch and create a pull request to have them merged
